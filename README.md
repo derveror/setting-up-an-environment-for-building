@@ -26,3 +26,11 @@ sudo apt install bc bison build-essential ccache curl flex g++-multilib gcc-mult
 ```
 sudo apt-get install mc
 ```
+# Installing Mega
+```
+sudo apt-get install ruby gem
+```
+# Installing Mega
+```
+sudo gem install rmega
+```
